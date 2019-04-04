@@ -39,7 +39,11 @@ body, html {
   background-image: url("img/ferranbw3.JPG");
   min-height: 400px;
 }
-    
+
+.show {
+    width: 200px;
+    text-align: right; 
+}
     
 .w3-wide {letter-spacing: 10px;}
 .w3-hover-opacity {cursor: pointer;}
