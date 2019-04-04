@@ -23,20 +23,20 @@ body, html {
 
 /* Second image (-) */
 .bgimg-2 {
-  background-image: url("img/ferranbw0.jpg");
+  background-image: url("img/ferranbw0.JPG");
   min-height: 400px;
 }
 
 
 /* Third image (Contact) */
 .bgimg-3 {
-  background-image: url("img/ferranbw2.JPG");
+  background-image: url("img/ferranbw2.jpg");
   min-height: 400px;
 }
 
     /* Second image (-) */
 .bgimg-4 {
-  background-image: url("img/ferranbw3.jpg");
+  background-image: url("img/ferranbw3.JPG");
   min-height: 400px;
 }
     
