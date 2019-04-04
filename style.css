@@ -44,6 +44,12 @@ body, html {
     width: 200px;
     text-align: right; 
 }
+
+.showrow {
+    padding-top: 0;
+    background-color: #F9F9F9;
+    
+}
     
 .w3-wide {letter-spacing: 10px;}
 .w3-hover-opacity {cursor: pointer;}
