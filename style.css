@@ -12,8 +12,8 @@ body, html {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-    transform: translateZ(+1px) scale(1.1);
-    z-index: -1;
+  transform: translateZ(+1px) scale(1.1);
+  z-index: -1;
 }
 
 /* First image (Logo. Full height) */
@@ -43,13 +43,13 @@ body, html {
 
 .show {
     width: 200px;
-    text-align: right; 
+    text-align: right;
 }
 
 .showrow {
     padding-top: 0;
     background-color: #F9F9F9;
-    
+
 }
 
 img.clients {
